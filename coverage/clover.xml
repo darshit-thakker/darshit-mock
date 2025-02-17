@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1739780349538" clover="3.2.0">
+  <project timestamp="1739780349538" name="All files">
+    <metrics statements="76" coveredstatements="74" conditionals="27" coveredconditionals="21" methods="35" coveredmethods="31" elements="138" coveredelements="126" complexity="0" loc="76" ncloc="76" packages="2" files="4" classes="4"/>
+    <package name="components">
+      <metrics statements="48" coveredstatements="46" conditionals="21" coveredconditionals="16" methods="21" coveredmethods="18"/>
+      <file name="Navbar.tsx" path="C:\Users\dathakker\Desktop\React Ecommerce\my-ecommerce\src\components\Navbar.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="6" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="23" type="stmt"/>
+        <line num="9" count="23" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="23" type="stmt"/>
+      </file>
+      <file name="ProductList.tsx" path="C:\Users\dathakker\Desktop\React Ecommerce\my-ecommerce\src\components\ProductList.tsx">
+        <metrics statements="34" coveredstatements="32" conditionals="12" coveredconditionals="8" methods="16" coveredmethods="13"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="10" type="stmt"/>
+        <line num="9" count="10" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="10" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="22" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="20" type="stmt"/>
+        <line num="26" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="20" type="stmt"/>
+        <line num="30" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="14" type="stmt"/>
+        <line num="34" count="12" type="stmt"/>
+        <line num="36" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="43" count="10" type="stmt"/>
+        <line num="44" count="10" type="stmt"/>
+        <line num="45" count="10" type="stmt"/>
+        <line num="47" count="10" type="stmt"/>
+        <line num="49" count="10" type="stmt"/>
+        <line num="50" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="55" count="10" type="stmt"/>
+        <line num="60" count="11" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="84" count="3" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+      </file>
+      <file name="StarRating.tsx" path="C:\Users\dathakker\Desktop\React Ecommerce\my-ecommerce\src\components\StarRating.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="8" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="11" type="stmt"/>
+        <line num="13" count="37" type="stmt"/>
+        <line num="17" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="28" coveredstatements="28" conditionals="6" coveredconditionals="5" methods="14" coveredmethods="13"/>
+      <file name="Cart.tsx" path="C:\Users\dathakker\Desktop\React Ecommerce\my-ecommerce\src\pages\Cart.tsx">
+        <metrics statements="28" coveredstatements="28" conditionals="6" coveredconditionals="5" methods="14" coveredmethods="13"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="16" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="10" count="16" type="stmt"/>
+        <line num="11" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="19" count="16" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="16" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="16" type="stmt"/>
+        <line num="34" count="7" type="stmt"/>
+        <line num="37" count="16" type="stmt"/>
+        <line num="41" count="16" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="48" count="16" type="stmt"/>
+        <line num="58" count="7" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
